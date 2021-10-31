@@ -5,8 +5,9 @@
 
 ### 2. Perhatikan Tabel dibawah ini:
 
-|----|------------------|---------------|-----------|--------|
+ 
 |NPM |     Nama         | Jenis Kelamin |  Jurusan  |   IPK  |
+|----|-----------------:|:-------------:|:---------:|:-------|
  	  	 	 	 
 57119789 	Andi Gunawan 	Laki - Laki 	Akuntansi 	3.29
 51319653 	Leshi Puspitasari 	Wanita 	Hukum 	3.60
