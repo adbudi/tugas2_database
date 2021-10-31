@@ -1,5 +1,8 @@
 # tugas2_database
 ### 1. Sebutkan pengertian dari tuple, attribute dan relation!
+      - Tuple disebut juga baris atau row
+      - Atrribute disebut juga kolom atau colum
+      - Relation disebut juga table
 
 <br>
 
