@@ -14,9 +14,9 @@
   	  	  	 	 
  <br>
  
-a. Sebutkan attribute dari tabel Mahasiswa!
-b. Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
-c. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
+- a. Sebutkan attribute dari tabel Mahasiswa!
+- b. Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
+- c. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
 
 <br>
 
