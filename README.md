@@ -14,11 +14,26 @@
   	  	  	 	 
  <br>
  
-- a. Sebutkan attribute dari tabel Mahasiswa!
-- b. Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
-- c. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
+-  Sebutkan attribute dari tabel Mahasiswa!
+   - NPM
+   - Nama
+   - Jenis Kelamin
+   - Jurusan
+   - IPK
+-  Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
+   -  57119789, Andi Gunawan, Laki - Laki, Akuntansi,3.29	  	 
+   -  51319653, Leshi Puspitasari, Wanita, Hukum, 3.60		 
+   -  56719451, Maximilianus Anthoni, Laki - Laki, Ilmu Komputer,  3.17	 
+-  Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
+   - Andi Gunawan
+   - Leshi Puspitasari
+   - Maximilianus Anthoni
+   - Akuntansi
+   -  Hukum
 
 <br>
 
 ### 3. Apakah pengertian dari Primary Key dan Candidate Key?
+   - Primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel. 
+   - Candidate Key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut.  
 
